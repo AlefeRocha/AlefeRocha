@@ -1,3 +1,5 @@
+![Alefe_img_github_02](https://github.com/AlefeRocha/AlefeRocha/assets/98778141/c3c4a6ab-b92f-4483-8a8a-8d84c81f2315)
+
 ### Hello, I'm Alefe 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alefe_Rocha_Tavares-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alefetavares/)](https://www.linkedin.com/in/alefetavares/)
