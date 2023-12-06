@@ -1,4 +1,4 @@
-![Alefe_img_github_02](https://github.com/AlefeRocha/AlefeRocha/assets/98778141/c3c4a6ab-b92f-4483-8a8a-8d84c81f2315)
+![Alefe_img_github_03](https://github.com/AlefeRocha/AlefeRocha/assets/98778141/d179ef49-22ff-40f1-bb3f-5c970a1bf990)
 
 ### Hello, I'm Alefe 👋
 
