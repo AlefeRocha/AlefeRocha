@@ -9,3 +9,4 @@ My focus is on backend development, where I've knowledge Javascript, Typescript,
 **🚀 let's code!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alefe_Rocha_Tavares-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alefetavares/)](https://www.linkedin.com/in/alefetavares/)
+[![Gmail Badge](https://img.shields.io/badge/-alefe.rtavares@gmail.com-3333cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefe.rtavares@gmail.com)](mailto:alefe.rtavares@gmail.com)
