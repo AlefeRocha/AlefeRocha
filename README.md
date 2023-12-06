@@ -1,6 +1,6 @@
 ![Alefe_img_github_03](https://github.com/AlefeRocha/AlefeRocha/assets/98778141/5277ec25-d726-47e1-9d26-6cd94e100859)
 
-### Hello, I'm Alefe 👋
+### Hello, I'm Álefe 👋
 
 I'm a former advertising/design professional with a passion for coding! I'm currently in the midst of a career transition and have previously worked as a junior developer.
 
